@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning HCI, ubiquitous computing, and online community design
 - 👯 I’m looking to collaborate on GamePub and new projects
 - 📫 How to reach me: hello@davidtn.com
-- 😄 Pronouns: he/him/his
+- 😄 Pronouns: he/him/Sir Loin
 
 ### Tech & Tools
 
