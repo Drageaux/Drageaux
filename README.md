@@ -11,11 +11,11 @@ Here are some ideas to get you started:
   - 📱 Mobile apps & services
   - 🎮 Game development
   - 🤖 AI and machine learning
-- 🐟 I started coding since 2013 as a Software Engineering major at RIT, focused on Software Usability. 
+- 🐟 I started coding since 2013 as a Software Engineering major at RIT, focused on Software Usability.
   - 🌐 Loved building things for the Web
   - 📅 Fell in love with Scrum
   - 🔮 Nearly got my minor in Psychology
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on:
   - [GamePub – a collaborative platform for user-generated games](https://github.com/Drageaux/gamepub-web) (Test app [here](https://gamepub-staging.herokuapp.com/))
 - 🌱 I’m currently learning HCI, ubiquitous computing, and online community design
 - 👯 I’m looking to collaborate on GamePub and new projects
