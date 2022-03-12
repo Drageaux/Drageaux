@@ -12,7 +12,7 @@ Here are some ideas to get you started:
   - 🎮 Game development
   - 🤖 AI and machine learning
 - 🐟 I started coding since 2013 as a Software Engineering major at RIT, focused on Software Usability. 
-  - 🌐 Loved building things for the web
+  - 🌐 Loved building things for the Web
   - 📅 Fell in love with Scrum
   - 🔮 Nearly got my minor in Psychology
 - 🔭 I’m currently working on 
