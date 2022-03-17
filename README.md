@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-### 👋 Hi! I'm David, a Computer Science M.S specialized in Human-Computer Interaction (HCI) from Georgia Tech. 
+### 👋 Hi! I'm David, a Computer Science M.S specialized in Human-Computer Interaction from Georgia Tech. 
 - 🐲 Some skills I picked up recently:
   - 📱 Mobile apps & services
   - 🎮 Game development
