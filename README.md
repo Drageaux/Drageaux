@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 <br/> 
 </div>
 
----
 
+### GitHub Stats
 ![Drageaux's github stats](https://github-readme-stats.vercel.app/api?username=Drageaux&count_private=true&show_icons=true)
