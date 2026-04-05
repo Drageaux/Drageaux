@@ -22,6 +22,7 @@ Here are some ideas to get you started:
     📅 Fell in love with Scrum
     🧠 Nearly got my minor in Psychology
 🔭 I’m currently working on:
++   Legion — sync game character builds a cross every game. Build once. Adapt anywhere.
     GamePub – a collaborative platform for user-generated games: https://github.com/Drageaux/gamepub-web
 🌱 I’m currently learning: Azure cloud, HCI, ubiquitous computing, and online community design
 👯 I’m looking to collaborate on GamePub and new projects
